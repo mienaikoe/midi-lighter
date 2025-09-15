@@ -27,5 +27,4 @@ module.exports = {
     resolve: {
         extensions: ['.js'],
     },
-    watch: true,
 };
